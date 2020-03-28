@@ -67,6 +67,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/scale/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/huawei/scale/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/huawei/scale/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/huawei/scale/proprietary/lib/libbtaddr.so:system/lib/libbtaddr.so \
+    vendor/huawei/scale/proprietary/lib/libbtpower.so:system/lib/libbtpower.so \
     vendor/huawei/scale/proprietary/lib/libdmd_report.so:system/lib/libdmd_report.so \
     vendor/huawei/scale/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/huawei/scale/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
